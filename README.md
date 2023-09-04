@@ -11,4 +11,4 @@ GameUserSettings.ini => add the line
 
 AntialiasingFullscene=OFF
 
-![image](https://github.com/Popolia/PaliaTools5/assets/69745473/6d834deb-2fe4-4f7a-8448-66a831864990)
+![image](https://github.com/Popolia/PaliaTools5-Error-4205-/assets/69745473/854eb8a8-8543-4bb9-be93-ad5e84f7a317)
